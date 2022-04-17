@@ -12,6 +12,10 @@ a.navbar-brand {
 
 }
 
+.nav-item:hover {
+    font-weight: 600;
+}
+
 /* Provide sufficient contrast against white background */
 a {
   color: #0366d6;
@@ -27,6 +31,10 @@ a {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
+}
+
+.blog {
+    line-height: 2;
 }
 
 /* Sticky footer styles
